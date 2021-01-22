@@ -1,0 +1,4 @@
+#Thu Dec 24 16:10:23 PKT 2020
+base.0=E\:\\Android_Work\\Android Project Work\\DevArt\\whatsapp_ui_clone\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
